@@ -17,7 +17,6 @@
         content.classList.remove('active');
       });
       document.getElementById(clickedItem.dataset.id).classList.add('active');
-
     });
   });
 }
